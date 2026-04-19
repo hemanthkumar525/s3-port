@@ -677,8 +677,8 @@ export default function App() {
           <Mono className="text-[11px] block mb-6 text-[var(--acc)] font-bold tracking-widest uppercase">Connection Panel</Mono>
           <div className="flex flex-col gap-4">
             <a href="mailto:hemanthrockzzzz199@gmail.com" className="text-sm font-bold hover:text-[var(--acc)] transition-colors border-b border-geom border-opacity-0 hover:border-opacity-100 pb-1 w-fit">EMAIL_PRIMARY</a>
-            <a href="#" className="text-sm font-bold hover:text-[var(--acc)] transition-colors border-b border-geom border-opacity-0 hover:border-opacity-100 pb-1 w-fit">SOURCE_GITHUB</a>
-            <a href="#" className="text-sm font-bold hover:text-[var(--acc)] transition-colors border-b border-geom border-opacity-0 hover:border-opacity-100 pb-1 w-fit">NETWORK_LINKEDIN</a>
+            <a href="https://github.com/hemanthkumar525" className="text-sm font-bold hover:text-[var(--acc)] transition-colors border-b border-geom border-opacity-0 hover:border-opacity-100 pb-1 w-fit">SOURCE_GITHUB</a>
+            <a href="https://www.linkedin.com/in/hemanth-kumar-636830269/" className="text-sm font-bold hover:text-[var(--acc)] transition-colors border-b border-geom border-opacity-0 hover:border-opacity-100 pb-1 w-fit">NETWORK_LINKEDIN</a>
           </div>
         </div>
       </aside>
